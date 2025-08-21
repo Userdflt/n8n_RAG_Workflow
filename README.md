@@ -214,5 +214,3 @@ GPT-4.1 orchestration agent with custom prompt engineering analyzes query intent
 PostgreSQL-backed chat memory maintains context across interactions, enabling natural follow-up questions and complex query sequences.
 
 ---
-
-*This project demonstrates advanced RAG architecture implementation using n8n's visual workflow capabilities, showcasing enterprise-grade multi-agent systems for specialized knowledge domains.*
